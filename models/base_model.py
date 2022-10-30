@@ -1,3 +1,8 @@
+#!/usr/bin/python3
+"""
+Contains class BaseModel
+"""
+
 from uuid import uuid4
 from datetime import datetime
 import json
@@ -44,7 +49,4 @@ class BaseModel:
 
 
 
-TestClass = BaseModel()
 
-# print(TestClass)
-print(TestClass.to_dict())
