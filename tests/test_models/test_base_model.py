@@ -246,8 +246,8 @@ class TestBaseModel(unittest.TestCase):
         """
         b = BaseModel()
         attrs = ["id", "created_at", "updated_at", "__class__"]
-        b.name = "Firdaus"
-        b.email = "firduas@gmail.com"
+        b.name = "Olarewaju"
+        b.email = "azlaw20@yahoo.com"
         attrs.extend(["name", "email"])
         for attr in attrs:
             self.assertIn(attr, b.to_dict())
