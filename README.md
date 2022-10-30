@@ -14,7 +14,8 @@ Each task is linked and will help you to:
 
 5 create all unittests to validate all our classes and storage engine
 
-Authors
+Authors:
+
 Lawrence Ogereka <lawrenceanthony70@gmail.com>
 
 Azeez Olarewaju Lawal <azlaw20@yahoo.com>
