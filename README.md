@@ -1,4 +1,4 @@
-# Alx(Holbotoon) AirBnB clone project
+# Alx(Holberton) AirBnB clone project
 
 This is the first step towards building your first full web application: the AirBnB clone.The goal of the project is to deploy on your server a simple copy of the AirBnB website.
 
@@ -14,4 +14,7 @@ Each task is linked and will help you to:
 
 5 create all unittests to validate all our classes and storage engine
 
-Authors Lawrence Ogereka <lawrenceanthony70@gmail.com>
+Authors
+Lawrence Ogereka <lawrenceanthony70@gmail.com>
+
+Azeez Olarewaju Lawal <azlaw20@yahoo.com>
