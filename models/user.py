@@ -1,18 +1,14 @@
 #!/usr/bin/python3
-"""Implements the user's model"""
+"""user class, subclass of BaseModel
+"""
+
 from models.base_model import BaseModel
+import json
 
 
 class User(BaseModel):
-    """
-    Inherits from the BaseModel class and add user's functionalities
+    '''subclass of BaseModel class'''
 
-    Args:
-        email (str): the email of the user
-        password (str): the password of the user
-        first_name (str): the first name of the user
-        last_name (str): the last name of the user
-    """
     email = ""
     password = ""
     first_name = ""
